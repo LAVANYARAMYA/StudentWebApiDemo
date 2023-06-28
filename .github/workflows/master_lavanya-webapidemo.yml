@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Lavanya-WebApiDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7CA530878934D1EAF261115F98304CD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_369F4C2F701943608967676054E50221 }}
           package: .
